@@ -1,0 +1,16 @@
+.navigation{
+    font-family: 'Caveat', cursive;
+}
+
+.nav-item{
+    background-color: #666666;
+    color:white;
+}
+
+.swiper-button-prev {
+  background-image: none;
+}
+
+.swiper-button-next {
+  background-image: none;
+}

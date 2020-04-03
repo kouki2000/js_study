@@ -1,0 +1,50 @@
+img{
+    max-width: 95%;
+    height:auto;
+}
+
+.nomi img{
+    width: 200px;
+    height:138px
+}
+
+.sunobo img{
+    width:400px;
+    height:400px;
+}
+
+.nishi img{
+    width:400px;
+    height:138px;
+}
+
+.itou img{
+    max-width: 100%;
+    height:auto;
+}
+
+#app {
+    width: 400px;
+    margin: 40px auto;
+    padding: 28px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color: transparent;
+    box-shadow: 2px 2px 5px 0px rgba(200,200,200,1);
+}
+
+.btn {
+    display: block;
+    width: 320px;
+    height: 60px;
+    line-height: 60px;
+    margin: 20px auto;
+    text-align: center;
+    color: #ffffff;
+    background-color: #384878;
+}
+
+.animated:hover {
+    animation-name: bounce;
+    animation-duration: 1s;
+}

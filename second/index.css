@@ -1,0 +1,106 @@
+body{
+    font-family:serif;
+}
+
+img {
+    max-width: 100%;
+    height:auto;
+}
+
+.swiper-slide img{
+    max-width: 100%;
+    height:auto;
+}
+
+.osirase{
+    font-family:serif;
+}
+
+.jouhou{
+    border-bottom: dashed 2px #5b8bd0;
+    
+}
+
+.tempojouhou{
+    background-color: #006699;
+    display: inline-block;
+    border-radius: 10%;
+    color:white;
+}
+
+.mojiretu{
+    background-color:#DDDDDD;
+    color:#000066;
+    padding-top: 20px;
+}
+
+.jouhou_mojiretu{
+    border-bottom: dashed 2px #5b8bd0;
+    border-color:#000066;
+    padding-top: 20px;
+}
+
+.syousai{
+    display: inline-block;
+    border-radius: 40px;
+    border:solid 1px;
+    border-color:#000066;
+}
+
+.syousai_second{
+    display: inline-block;
+    border-radius: 60px;
+    border:solid 1px;
+    border-color:#000066;
+    height:30px;
+    margin-top: 60px;
+}
+
+.orijinal{
+    padding-left:100px;
+}
+
+.syousai_third{
+    display: inline-block;
+    border-radius: 60px;
+    border:solid 1px;
+    border-color:#000066;
+    height:30px;
+}
+
+.nomi img{
+    max-width: 80%;
+    height: auto;
+    transition: 0.5s;
+}
+
+.nomi img:hover {
+　transform: scale(1.2,1.2); /*画像の拡大*/
+　cursor: pointer; /*カーソルをポインターにする*/
+}
+
+.member{
+    padding-left: 60px;
+    margin-top: 100px;
+}
+
+.bakadomo img{
+    width:300px;
+    height:180px;
+}
+
+
+
+.footer{
+    background-color: #EEEEEE;
+}
+
+.fa-audible{
+    font-size: 60px;
+    color:#000066;
+}
+
+.second_footer{
+    margin-top: 60px;
+    color:#AAAAAA;
+}

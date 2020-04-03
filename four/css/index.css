@@ -1,0 +1,9 @@
+.navigation{
+    font-family: 'Caveat', cursive;
+    
+}
+
+.head-nav{
+    display: flex;
+    flex-direction:row;
+}
